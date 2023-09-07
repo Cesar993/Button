@@ -1,0 +1,37 @@
+.search{
+    background-color: aliceblue;
+    border-radius: 30px;
+    padding: 6px 50px;
+    border-color: #34A9AA;
+    border-style: solid;
+    color: #34A9AA;
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    display: block;
+    margin: 60px ;
+}
+.add{
+    background-color: #00D1B2;
+    border-radius: 50%;
+    border-style: none;
+    margin: 30px;
+    color: aliceblue;
+    height: 50px;
+    width: 50px;
+    font-size: 40px;
+    display: block;
+    margin: 60px ;
+}
+.account{
+    background-color: #2B78E4;
+    color: white;
+    border-style: solid;
+    border-color: black;
+    display: block;
+    margin: 60px ;
+    padding: 6px 50px;
+    font-size: 16px;
+    box-shadow: 5px 6px 8px  black;
+    
+}
